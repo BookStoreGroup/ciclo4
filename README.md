@@ -6,3 +6,4 @@
 - Jhon Mendez.
 - Ruth Bernal.
 - Daniel Vásquez.
+- Carlos Moreno
